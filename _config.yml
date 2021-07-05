@@ -1,10 +1,10 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
-show_downloads: true
+title: Gilberto Ramirez
+description: Software Engineer
+show_downloads: false
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
-
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://gilberto-ramirez.me" # change this to the base hostname & protocol for your site
+author: Gilberto Ramirez
 
 google_analytics:
 
@@ -16,10 +16,18 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+#author: Gilberto Ramirez
+#image: /thumbnail-jumbo.png
+#twitter:
+  #username: lorepirri
+
+github:
+  owner_name: "Gilberto Ramirez"
+  repository_url: "https://github.com/Gilberto-Felipe"
+
+email: "gramirez25@ucol.mx"
+linkedin: 
+  linkedin_url: "https://www.linkedin.com/in/gilberto-felipe-ramirez-garcia/"
 
 plugins:
   - jekyll-target-blank
@@ -27,4 +35,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['about', 'blog']
