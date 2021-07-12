@@ -15,6 +15,9 @@ cayman-blog:
 
 theme: # leave it empty
 
+disqus: 
+  shortname: "gilberto-ramirez"
+
 # social
 #author: Gilberto Ramirez
 #image: /thumbnail-jumbo.png

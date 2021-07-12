@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article itemscope itemtype="http://schema.org/BlogPosting">
 
   <!-- <header class="post-header">
@@ -16,10 +17,18 @@ layout: default
   </header> -->
 
   <div itemprop="articleBody">
-    {{ content }}
+    <i class="far fa-clock"></i>
+    {% capture words %}
+    {{ page.content | number_of_words | minus: 250 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+    {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
+    {% endunless %}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  {{ content }}
+
 </article>
+
+
+{% include disqus.html %}

@@ -64,6 +64,7 @@
 
     {% if page.layout == 'default' %}
     {% assign page-tagline = site.description | escape %}
+    {% assign page-title = site.title | escape %}
     {% endif %}
     {% if page.layout == 'home' %}
     {% assign page-tagline = page.tagline | escape %}
@@ -76,18 +77,8 @@
     {% endif %}
 
     <section class="page-header" role="banner">
-        <h1 class="project-name">{{ site.title }}</h1>
+        <h1 class="project-name">{{ page-title }}</h1>
         <h2 class="project-tagline">{{ page-tagline }}</h2>
-
-        <a href="{{ site.github.repository_url }}" target="_blank" class="btn">
-            <i class='fab fa-github-alt' style='font-size:24px;color:white'></i>
-        </a>
-        <a href="mailto: {{ site.email }}" target="_blank" class="btn">
-            <i class='fas fa-envelope' style='font-size:24px;color:white'></i>
-        </a>
-        <a href="{{ site.linkedin.linkedin_url }}" target="_blank" class="btn">
-            <i class='fab fa-linkedin' style='font-size:24px;color:white'></i>
-        </a>
 
         <!-- Post tagline -->
         {% if page.layout == 'post' %}
@@ -101,9 +92,19 @@
             • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
                     itemprop="name">{{ page_author }}</span></span>
             {% endif %}
-        </h2>
+        </h2><br>
         {% endif %}
         <!-- End: Post tagline -->
+
+        <a href="{{ site.github.repository_url }}" target="_blank" class="btn">
+            <i class='fab fa-github-alt' style='font-size:24px;color:white'></i>
+        </a>
+        <a href="{{ site.linkedin.linkedin_url }}" target="_blank" class="btn">
+            <i class='fab fa-linkedin' style='font-size:24px;color:white'></i>
+        </a>
+        <a href="mailto: {{ site.email }}" target="_blank" class="btn">
+            <i class='fas fa-envelope' style='font-size:24px;color:white'></i>
+        </a>
     </section>
 
     <section class="main-content" role="main">
