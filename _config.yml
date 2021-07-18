@@ -1,25 +1,22 @@
 title: Gilberto Ramirez
-description: Software Engineer
-show_downloads: false
-
-baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://gilberto-ramirez.me" # change this to the base hostname & protocol for your site
-author: Gilberto Ramirez
-
+tagline: Software Engineer | Web Developer
+description: I'm a Software Engineer focussed on web development.
 google_analytics:
-
+show_downloads: false
+url: "https://gilberto-ramirez.me" # change this to the base hostname & protocol for your site
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+permalink: none
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
-
 theme: # leave it empty
 
 disqus: 
   shortname: "gilberto-ramirez"
 
 # social
-#author: Gilberto Ramirez
+author: Gilberto Ramirez
 #image: /thumbnail-jumbo.png
 #twitter:
   #username: lorepirri
@@ -29,6 +26,7 @@ github:
   repository_url: "https://github.com/Gilberto-Felipe"
 
 email: "gramirez25@ucol.mx"
+
 linkedin: 
   linkedin_url: "https://www.linkedin.com/in/gilberto-felipe-ramirez-garcia/"
 
@@ -39,3 +37,4 @@ target-blank:
     rel: nofollow
 
 header_page_refs: ['about', 'blog']
+
