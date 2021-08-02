@@ -24,7 +24,7 @@ layout: default
     {% unless words contains "-" %}
     {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
     {% endunless %}
-  </span>
+  </span> -
 
   <a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
 
@@ -32,5 +32,17 @@ layout: default
 
 </article>
 
+<div class="post-nav">
+  <p>
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">&#8672;&nbsp;{{page.previous.title}}</a>
+    {% endif %}
+  </p>
+  <p>
+    {% if page.next.url %}
+    <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&#8674;</a>
+    {% endif %}
+  </p>
+</div>
 
 {% include disqus.html %}

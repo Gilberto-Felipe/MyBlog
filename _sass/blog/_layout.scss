@@ -231,7 +231,7 @@
 
 .card-image {
   height: 264px !important;
-  object-fit: contain;
+  object-fit: fill;
 }
 
 .center {
@@ -241,9 +241,8 @@
   width: 50%;
 }
 
-
 #navbar {
-  overflow: hidden;
+  //overflow: hidden;
   background-color: white;
 }
 
@@ -258,3 +257,40 @@
 .sticky + .page-header {
   padding-top: 150px !important;
 }
+
+.img-post {
+  width: 100%;
+  object-fit: contain;
+}
+
+/* Previous and Next post buttons */
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 3rem 0 !important;
+}
+
+.post-nav p {
+  flex: 1 1 0;
+  width: 45%;
+}
+
+.post-nav p:first-child {
+  padding-right: 0.5em;
+}
+
+.post-nav p:last-child {
+  padding-left: 0.5em;
+  text-align: right;
+  margin-top: 0 !important;
+}
+
+/* Remove text decoration from links */
+/* a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  font-weight: bold;
+} */

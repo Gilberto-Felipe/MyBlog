@@ -63,7 +63,7 @@ int main() {
 }
 ```
 
-Otros lenguajes más modernos, son más abstractos y el lenguaje maneja por ti la asignación de espacios de memoria y otras muchas cosas. Esto facilita la vida de los programadores 😀. Entre ellos están: Java, C#, JavaScript, Python, y PHP entre otros.  
+Otros lenguajes más modernos, son más abstractos y el lenguaje maneja por ti la asignación de espacios de memoria y otras muchas cosas. Esto facilita la vida de los programadores 😀. Entre ellos están: Java, C#, JavaScript, Python y PHP entre otros.  
 
 ```python
 # Hola mundo en Python
@@ -79,15 +79,13 @@ De propósito general son Python, Java o C# que permiten emplearlos en diferente
 De propósito específico es por ejemplo SQL un lenguaje creado exclusivamente para manejar bases de datos relacionales.  
 
 ## ¿Cómo entiende una máquina un lenguaje de programación?  
-Es una buena pregunta, puesto que la máquina solo entiende el código máquina. ¿Qué pasa para que la máquina pueda entender las instrucciones de los lenguajes de programación? En breve, esas instrucciones se deben traducir o pasar al lenguaje máquina. Para hacer esta traducción existen dos técnicas:  
+Es una buena pregunta, puesto que la máquina solo entiende el código máquina. ¿Qué pasa para que la máquina pueda entender las instrucciones de los lenguajes de programación? En breve, esas instrucciones se deben traducir al lenguaje máquina. Para hacer esta traducción existen dos técnicas:  
 
-### Traductor  
-El traductor o intérprete es un software que pasa las instrucciones del lenguaje de alto nivel hasta el lenguaje máquina. Esto lo hace durante el tiempo de ejecución. El intérprete va traduciendo línea por línea conforme el programa ejecuta las instrucciones. Si hay algún error, el programa se detiene donde encontró el error. Lenguajes interpretados son por ejemplo: JavaScript y Python.  
+### Intérprete  
+El intérprete o traductor es un software que traduce las instrucciones del lenguaje de alto nivel al lenguaje máquina. Esto lo hace durante el tiempo de ejecución. El intérprete traduce línea por línea conforme el programa ejecuta las instrucciones. Si hay algún error, el programa se detiene donde encontró el error. Lenguajes interpretados son por ejemplo: JavaScript y Python.  
 
 ### Compilador  
-Es la técnica opuesta. Todo el programa se compila (se traduce) a código máquina antes de ser ejecutado. Esto hace que el programa sea más eficiente, porque no se realiza la traducción en tiempo de ejecución. Tiene la ventaja de que se puede almacenar el código ya compilado para rehusarse luego. Si el compilador encuentra un error, el programa no puede ser compilado. Es necesario correjir el error y volver a compilar. Lenguajes compilados son por ejemplo: C, C++. C# y Java.  
+Es la técnica opuesta. Todo el programa se compila (se traduce) a código máquina antes de ser ejecutado. Esto hace que el programa sea más eficiente, porque no se realiza la traducción en tiempo de ejecución. Tiene la ventaja de que el código compilado se puede almacenar para rehusarse luego. Si el compilador encuentra un error, el programa no puede ser compilado. Es necesario correjir el error y compilar. Lenguajes compilados son por ejemplo: C, C++. C# y Java.  
 
 ## Conclusión  
-En resumen, en este artículo vimos qué es un lenguaje de programación, qué es el código máquina, qué es el lenguaje ensamblador, qué son los lenguajes de alto nivel, qué son los errores de programación y qué es depurar un programa.  
-
-En el siguiente artículo veremos que son los bugs en la jerga computacional.   
+En resumen, en este artículo vimos qué es un lenguaje de programación, qué es el código máquina, qué es el lenguaje ensamblador, qué son los lenguajes de alto nivel, qué son los intérpretes y compiladores. En el siguiente artículo veremos que son los bugs en la jerga computacional.  
