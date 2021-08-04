@@ -8,14 +8,13 @@ comments: true
 
 En esta entrada conoceremos qué es programar y otros conceptos para adentrarnos en el mundo de la programación.  
 
-<img src="/assets/images/programming_python.jpg" alt="Programa en Python" class="img-post">
-<small>Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Ried</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
-
-
 ## ¿Qué es programar?  
 Programar es dar instrucciones a una computadora para realizar una tarea. Programar es resolver problemas utilizando como herramienta un lenguaje de programación.  
 
 Programar se parece a otras actividades humanas como cocinar o escribir un cuento. Por una parte, cocinar conlleva unos ingredientes, una receta que es seguir una serie de pasos y al final obtenemos como resultado un platillo. Por otra, un cuento se forma con palabras, oraciones y párrafos; tiene un inicio, un cuerpo y un final.  
+
+<img src="/assets/images/programming_python.jpg" alt="Programa en Python" class="img-post">
+<small>Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Ried</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
 
 ### ¿Qué es un programa?  
 Un programa es un conjunto de instrucciones que resuelve un problema.  
@@ -35,7 +34,9 @@ Es la persona que escribe programas de computadora. Es un intermediario entre el
 Se programa con la inteligencia. Un teclado es un medio para programar, pero no la causa. Podríamos programar sin un teclado en una pantalla táctil, o con un ratón.  
 
 ### ¿Qué es un editor de código?  
-Un editor de código es un software que sirve para escribir programas. Es como un Word pero para los programadores. Algunos editores de código que puedes usar son: Visual Studio Code, Atom, Brackets y Sublime Text. Actualmente en el 2021, el editor de código más popular es Visual Studio Code. 
+Un editor de código es un software que sirve para escribir programas. Es como un Word pero para los programadores. Algunos editores de código que puedes usar son: Visual Studio Code, Atom, Brackets y Sublime Text. Actualmente en el 2021, el editor de código más popular es Visual Studio Code.  
+
+![vscode](/assets/images/vscode.png "Editor de código visual studio code")
 
 ### ¿Qué es un IDE?  
 Un IDE (*integrated development environment*) es un ambiente integrado de desarrollo. Es un software con herramientas integradas para construir aplicaciones. Contiene un editor de código, terminales, compiladores, herramientas para automatizar el despliegue del software en un servidor local y para hacer pruebas. Algunos de ellos son: Visual Studio, NetBeans e IntelliJ.  
@@ -52,6 +53,6 @@ Por otro lado, las computadoras son mejores que nosotros para los cálculos exac
 Recapitulando, en este artículo vimos un contexto y conceptos generales relacionados con la programación que nos ayudan a tener una base. En el siguiente artículo veremos qué son los lenguajes de programación.  
 
 ## Referencias  
-[Documentación oficial de Python](https://www.python.org/doc/).
-Severance, C. *[Python for every body](https://www.coursera.org/specializations/python)*. El curso y todos sus materiales tienen una licencia Creative Commons Attribution 3.0. Todos los materiales son gratuitos.  
-Severance, C. *[Python para todos](https://es.py4e.com/)*. Es el sitio web donde puedes encontrar los materiales del curso en español.  
+* [Documentación oficial de Python](https://www.python.org/doc/).  
+* Severance, C. *[Python for every body](https://www.coursera.org/specializations/python)*. El curso y todos sus materiales tienen una licencia Creative Commons Attribution 3.0. Todos los materiales son gratuitos.  
+* Severance, C. *[Python para todos](https://es.py4e.com/)*. Es el sitio web donde puedes encontrar los materiales del curso en español.  

@@ -16,9 +16,10 @@ En este artículo conocerás qué son los bugs en programación, cuáles son sus
 ## ¿Qué es un bug en programación?  
 En la jerga computacional a los errores se les llama bugs.  
 
-En inglés bug significa insecto. Pero ¿qué tiene que ver un insecto con un error en las computadoras? [La historia](https://en.wikipedia.org/wiki/Software_bug) es que en 1945 un insecto, una polilla para ser exactos, ocasionó un error en la computadora Mark II de la universidad de Hardvard. Pues sí, el origien del fallo era un *bug*.  
+En inglés bug significa insecto. Pero ¿qué tiene que ver un insecto con un error en las computadoras? [La historia](https://en.wikipedia.org/wiki/Software_bug) es que en 1945 un insecto, una polilla para ser exactos, ocasionó un error en la computadora Mark II de la universidad de Harvard. Pues sí, el origien del fallo era un *bug*.  
 
-![Primer Bug de la computación, 1945](/assets/images/First_Computer_Bug,_1945.jpg)
+![Primer Bug de la computación, 1945](/assets/images/First_Computer_Bug,_1945.jpg)  
+<small>Fuente: Wikipedia.</small>
 
 Un error es una instrucción que no es procesable para la computadora. Las instrucciones para la computadora deben ser exactas e inequívocas. Inequívoco significa que no permite dudas o ambigüedad. Un error significa que la computadora está perdida, que no entendió nuestra instrucción.  
 
@@ -34,7 +35,7 @@ Los errores sintácticos son triviales, como por ejemplo un error tipográfico o
 ## ¿Qué es depurar un programa?  
 Es el proceso de identificar errores y corregirlos. En inglés se llama *debugging*, pues se trata de eliminar los insectos (errores) del software.  
 
-Esta actividad es muy importante, pues equivocarnos es de humanos. Las cosas que creamos se parecen a nosotros. En un programa muy simple depurar es pan comido. Pero en un software complejo, es una tarea que conlleva paciencia, tiempo y experiencia.  
+Esta actividad es muy importante, pues equivocarnos es de humanos. Las cosas que creamos se parecen a nosotros. En un programa muy simple, por ejemplo escribir un ¡Hola mundo!, depurar es pan comido. Empero en un software complejo, es una tarea que conlleva paciencia, tiempo y experiencia.  
 
 ## Conclusión  
-En resumen, conocimos qué son los bugs, por qué se les llama así en la jerga computacional, una división general de los errores y qué es depurar un programa.  
+En resumen, conocimos qué son los bugs, por qué se les llama así en la jerga computacional, una división general de los errores y qué es depurar un programa. En la siguiente entrada veremos cómo instalar Python en la computadora.  
