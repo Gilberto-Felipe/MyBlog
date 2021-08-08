@@ -1,5 +1,6 @@
 ---
 layout: default
+color: #1e6bb8 
 ---
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
@@ -16,6 +17,8 @@ layout: default
       {% endif %}</p>
   </header> -->
 
+  Categoría: <spam class="category-breadcrum">{{ page.category }} </spam><br>
+
   <span itemprop="articleBody">
     <i class="far fa-clock"></i>
     {% capture words %}
@@ -27,6 +30,8 @@ layout: default
   </span> -
 
   <a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+
+  <br><br>
 
   {{ content }}
 

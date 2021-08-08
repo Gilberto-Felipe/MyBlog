@@ -2,6 +2,7 @@
 layout: post
 title: "¿Qué es programar?"
 tagline: "Aprende los Fundamentos de programación en Python | Contexto"
+description: En esta entrada conoceremos qué es programar y otros conceptos para adentrarnos en el mundo de la programación.
 category: Python
 comments: true
 ---
@@ -34,25 +35,12 @@ Es la persona que escribe programas de computadora. Es un intermediario entre el
 Se programa con la inteligencia. Un teclado es un medio para programar, pero no la causa. Podríamos programar sin un teclado en una pantalla táctil, o con un ratón.  
 
 ### ¿Qué es un editor de código?  
-Un editor de código es un software que sirve para escribir programas. Es como un Word pero para los programadores. Algunos editores de código que puedes usar son: Visual Studio Code, Atom, Brackets y Sublime Text. Actualmente en el 2021, el editor de código más popular es Visual Studio Code.  
+Un editor de código es un software que sirve para escribir programas. Es como un Word pero para los programadores. Es un programa ligero (pesan menos bytes que los IDEs), que puedes extender su funcionalidad añadiendo nuevos programas llamados plugins o extensiones. Algunos editores de código que puedes usar son: Visual Studio Code, Atom, Brackets y Sublime Text. Actualmente en el 2021, el editor de código más popular es Visual Studio Code.  
 
 ![vscode](/assets/images/vscode.png "Editor de código visual studio code")
 
 ### ¿Qué es un IDE?  
-Un IDE (*integrated development environment*) es un ambiente integrado de desarrollo. Es un software con herramientas integradas para construir aplicaciones. Contiene un editor de código, terminales, compiladores, herramientas para automatizar el despliegue del software en un servidor local y para hacer pruebas. Algunos de ellos son: Visual Studio, NetBeans e IntelliJ.  
+Un IDE (*integrated development environment*) es un ambiente integrado de desarrollo. Es un software con herramientas integradas para construir aplicaciones. Contiene un editor de código, terminales, compiladores, herramientas para automatizar el despliegue del software en un servidor local, depurar y hacer pruebas. A diferencia de los editores de código, un IDE es por mucho más pesado en bytes y sus funcionalidades ya están integradas. Algunos de ellos son: Visual Studio, NetBeans e IntelliJ.  
 
-### ¿Qué es la ingeniería de software?  
-La ingeniería de software busca resolver problemas mediante el diseño, creación y mantenimiento de software de calidad. Aplica los métodos de la ingeniería al desarrollo de software.  
-
-### Software y los humanos  
-El ser humano y el software, una creación hecha por el hombre, se complementan. Por una parte, el ser humano es mejor para unas tareas que el software y viceversa. Por un lado, el software no entiene el contexto, el humano sí. Por el momento, esto es una limitante del software. En cambio, nosotros entendemos el contexto y reparamos cosas cuando nos equivocamos al hablar, escribir, etc. Además poseemos la intuición y la experiencia. En ocasiones nos saltamos parte del proceso lógico porque podemos intuir el resultado.  
-
-Por otro lado, las computadoras son mejores que nosotros para los cálculos exactos, para tareas repetitivas y aburridas, o para tareas peligrosas por ejemplo cuando se usan robots. Las computadoras no se cansan. Imagínate que debes contar el número de palabras que hay en la primera página del libro Don Quijote y tienes un minuto para hacerlo. Ahora qué pasaría si debes contar todas las palabras del libro y cuántas veces se repite cada una. ¡Exacto! 😂 Mejor que lo haga Word u otro programa.  
-
-## Conclusión
+## Conclusión  
 Recapitulando, en este artículo vimos un contexto y conceptos generales relacionados con la programación que nos ayudan a tener una base. En el siguiente artículo veremos qué son los lenguajes de programación.  
-
-## Referencias  
-* [Documentación oficial de Python](https://www.python.org/doc/).  
-* Severance, C. *[Python for every body](https://www.coursera.org/specializations/python)*. El curso y todos sus materiales tienen una licencia Creative Commons Attribution 3.0. Todos los materiales son gratuitos.  
-* Severance, C. *[Python para todos](https://es.py4e.com/)*. Es el sitio web donde puedes encontrar los materiales del curso en español.  

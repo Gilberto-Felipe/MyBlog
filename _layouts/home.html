@@ -6,11 +6,11 @@ layout: default
 
   {{ content }}
 
-  <h2>Latest Posts</h2>
+  <h2>Fundamentos de programación con Python</h2>
 
   <div>&nbsp;</div>
 
-  <ul class="post-list">
+  <!--   <ul class="post-list">
     {% for post in site.categories.Python reversed %}
     <li>
 
@@ -25,6 +25,27 @@ layout: default
 
     </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
 </div>
+
+
+
+{% for post in site.categories.Python reversed %}
+<div class="card-post-list">
+  <span class="image-post-list">
+    <i class="fab fa-python fa-5x" style='color: #2a7ae2;'></i>
+  </span>
+  <div class="card-body-post-list">
+    {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+    <h2 class="card-title-post-list">
+      <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+    </h2>
+
+    {{ post.excerpt | markdownify | truncatewords: 30 }}
+    
+  </div>
+</div>
+{% endfor %}

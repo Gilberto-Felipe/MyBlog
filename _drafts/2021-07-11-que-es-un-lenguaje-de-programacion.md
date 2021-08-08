@@ -7,7 +7,7 @@ category: Python
 comments: true
 ---
 
-En este artículo veremos qué son los lenguajes de programación, alguna de sus clasificaciones y cómo una computadora puede entender las instrucciones que le damos a través de un lenguaje de programación.  
+En este artículo veremos qué son los lenguajes de programación, alguna de sus clasificaciones y cómo una computadora puede entender las instrucciones que le damos.  
 
 ## ¿Qué es un lenguaje de programación?  
 Un lenguaje de programación es un lenguaje formal, un conjunto de símbolos y códigos que permiten que el programador dé instrucciones a una máquina.  
