@@ -35,7 +35,7 @@ Los errores sintácticos son triviales, como por ejemplo un error tipográfico o
 ## ¿Qué es depurar un programa?  
 Es el proceso de identificar errores y corregirlos. En inglés se llama *debugging*, pues se trata de eliminar los insectos (errores) del software.  
 
-Esta actividad es muy importante, pues equivocarnos es de humanos. Las cosas que creamos se parecen a nosotros. En un programa muy simple, por ejemplo escribir un ¡Hola mundo!, depurar es pan comido. Empero en un software complejo, es una tarea que conlleva paciencia, tiempo y experiencia.  
+Esta actividad es muy importante, pues equivocarnos es de humanos. Las cosas que creamos se parecen a nosotros. En un programa muy simple, por ejemplo escribir un ¡Hola mundo!, depurar es pan comido. Sin embargo, en un software complejo, es una tarea que conlleva paciencia, tiempo y experiencia.  
 
 ## Conclusión  
 En resumen, conocimos qué son los bugs, por qué se les llama así en la jerga computacional, una división general de los errores y qué es depurar un programa. En la siguiente entrada veremos cómo instalar Python en la computadora.  

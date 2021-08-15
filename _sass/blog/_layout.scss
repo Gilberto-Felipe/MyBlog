@@ -245,29 +245,6 @@
   }
 }
 
-
-/* .card-btn:hover {
-  opacity: 1;
-	-webkit-animation: flash 1.5s;
-	animation: flash 1.5s;
-}
-@-webkit-keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-}
-@keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-} */
-
 .card-image {
   height: 264px !important;
   object-fit: fill;
@@ -280,6 +257,9 @@
   width: 50%;
 }
 
+/**
+* Navbar
+*/
 #navbar {
   //overflow: hidden;
   background-color: white;
@@ -330,7 +310,7 @@
 }
 
 /**
-* Link style
+* General Link style
 */
 a {
   text-decoration: none !important;
