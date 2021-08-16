@@ -13,6 +13,11 @@ En este artículo conocerás qué son los bugs en programación, cuáles son sus
 <i class="fas fa-bug" style='font-size:80px;color: red;'></i>
 </p>
 
+- [¿Qué es un bug en programación?](#qué-es-un-bug-en-programación)
+- [¿Qué tipos de errores existen en la programación?](#qué-tipos-de-errores-existen-en-la-programación)
+- [¿Qué es depurar un programa?](#qué-es-depurar-un-programa)
+- [Conclusión](#conclusión)
+
 ## ¿Qué es un bug en programación?  
 
 En la jerga computacional a los errores se les llama bugs.  

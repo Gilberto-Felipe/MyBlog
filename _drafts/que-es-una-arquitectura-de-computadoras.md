@@ -9,6 +9,18 @@ comments: true
 
 En este artículo conocerás qué es una arquitectura de computadoras, las arquitecturas Von Newmann y Harvard y por qué es importante conocer cómo se organiza el hardware.  
 
+- [¿Porqué es importante conocer sobre la arquitectura de computadoras?](#porqué-es-importante-conocer-sobre-la-arquitectura-de-computadoras)
+- [¿Qué es una arquitectura de computadora?](#qué-es-una-arquitectura-de-computadora)
+- [¿Cuáles son los componentes de la arquitectura de computadora?](#cuáles-son-los-componentes-de-la-arquitectura-de-computadora)
+  - [Periféricos](#periféricos)
+  - [CPU](#cpu)
+  - [Memoria principal o RAM](#memoria-principal-o-ram)
+  - [Almacenamiento o memoria secundaria](#almacenamiento-o-memoria-secundaria)
+  - [Conexión de red](#conexión-de-red)
+- [Arquitectura Von Neumann](#arquitectura-von-neumann)
+- [Arquitectura Harvard](#arquitectura-harvard)
+- [Conclusión](#conclusión)
+
 ## ¿Porqué es importante conocer sobre la arquitectura de computadoras?
 
 Conocer cómo es una computadora por dentro, su organización y su funcionamiento, aunque sea de forma general, es importante porque los programas se ejecutan en ella. El software vive en las computadoras, especialmente en el procesador y en la memoria.  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Draft variado"
+date: 2022-08-29 20:00:00 -0600
 tagline: "draf variado"
 description: "draf variado"
 category: Python

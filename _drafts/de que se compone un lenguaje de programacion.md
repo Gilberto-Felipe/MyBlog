@@ -7,7 +7,13 @@ category: Python
 comments: true
 --- 
 
-En esta entrada veremos cuáles son los elementos que componen un lenguaje de programación y cuáles son las palabras reservadas en Python.
+En esta entrada veremos cuáles son los elementos que componen un lenguaje de programación y cuáles son las palabras reservadas en Python.  
+
+- [¿De qué se compone un lenguaje de programación?](#de-qué-se-compone-un-lenguaje-de-programación)
+- [Símbolo `>>>` en el intérprete de Python](#símbolo--en-el-intérprete-de-python)
+- [Cerrar el intérprete con `quit()`](#cerrar-el-intérprete-con-quit)
+- [Mensajes de error en Python](#mensajes-de-error-en-python)
+- [Escribir en un programa en el editor de código](#escribir-en-un-programa-en-el-editor-de-código)
 
 ## ¿De qué se compone un lenguaje de programación?  
 
@@ -65,8 +71,6 @@ Hay diferentes tipos de error en Python que poco a poco iremos conociendo.
 ## Escribir en un programa en el editor de código  
 
 Cuando ecribimos un programa, generalmente lo hacemos en un editor de código. Es más cómodo y no tiene los límites del interprete en la línea de comandos.  
-
-### Nuestro primer script  
 
 Llamamos *script* a un archivo con instrucciones para realizar una tarea. Los archivos de Python terminan con la extensión .py.
 

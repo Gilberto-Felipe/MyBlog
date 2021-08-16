@@ -6,7 +6,7 @@ google_analytics:
 show_downloads: false
 url: "https://gilberto-ramirez.me" # change this to the base hostname & protocol for your site
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-permalink: none
+permalink: none # none es la opción que quiero de permalink.
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:

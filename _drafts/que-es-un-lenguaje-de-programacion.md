@@ -9,6 +9,18 @@ comments: true
 
 En este artículo veremos qué son los lenguajes de programación, alguna de sus clasificaciones y cómo una computadora puede entender las instrucciones que le damos.  
 
+- [¿Qué es un lenguaje de programación?](#qué-es-un-lenguaje-de-programación)
+- [Clasifición de los lenguajes de programación](#clasifición-de-los-lenguajes-de-programación)
+  - [Según su nivel de abstracción](#según-su-nivel-de-abstracción)
+    - [Código máquina](#código-máquina)
+    - [Lenguaje ensamblador](#lenguaje-ensamblador)
+    - [Lenguajes de alto nivel](#lenguajes-de-alto-nivel)
+  - [Según su propósito](#según-su-propósito)
+- [¿Cómo entiende una máquina un lenguaje de programación?](#cómo-entiende-una-máquina-un-lenguaje-de-programación)
+  - [Intérprete](#intérprete)
+  - [Compilador](#compilador)
+- [Conclusión](#conclusión)
+
 ## ¿Qué es un lenguaje de programación?  
 
 Un lenguaje de programación es un lenguaje formal, un conjunto de símbolos y códigos que permiten que el programador dé instrucciones a una máquina.  
