@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fundamentos de programación con Python"
+date: 2021-08-29 19:51:01 -0600 
 tagline: "Fundamentos de programación con Python"
 description: Esta es una introducción a una serie de entradas sobre fundamentos de programación uitlizando el lenguaje de programación Python.  
 category: Python

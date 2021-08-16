@@ -1,22 +1,23 @@
 title: Gilberto Ramirez
 tagline: Software Engineer
 description: I'm a Software Engineer focussed on web development.
+author: Gilberto Ramirez
 google_analytics: 
 show_downloads: false
 url: "https://gilberto-ramirez.me" # change this to the base hostname & protocol for your site
-baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 permalink: none
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
 theme: # leave it empty
-
 disqus: 
   shortname: "gilberto-ramirez"
 
 # social
-author: Gilberto Ramirez
+email: "gramirez25@ucol.mx"
+
 #image: /thumbnail-jumbo.png
 #twitter:
   #username: lorepirri
@@ -24,8 +25,6 @@ author: Gilberto Ramirez
 github:
   owner_name: "Gilberto Ramirez"
   repository_url: "https://github.com/Gilberto-Felipe"
-
-email: "gramirez25@ucol.mx"
 
 linkedin: 
   linkedin_url: "https://www.linkedin.com/in/gilberto-felipe-ramirez-garcia/"
