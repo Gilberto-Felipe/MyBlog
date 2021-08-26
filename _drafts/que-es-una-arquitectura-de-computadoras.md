@@ -29,7 +29,7 @@ Conocer cómo es una computadora por dentro, su organización y su funcionamient
 
 > Una arquitectura de computadora es un modelo que representa cómo está organizado el hardware de una computadora y cómo funciona.  
 
-## ¿Cuáles son los componentes de la arquitectura de computadora?
+## ¿Cuáles son los componentes de la arquitectura de computadora?  
 
 Los componentes son:  
 
@@ -50,11 +50,15 @@ Los periféricos sirven para la entrada y salida de datos. Sirven para que inter
 
 ### CPU  
 
-La unidad central de procesamiento (CPU por sus siglas en inglés), o simplemente el procesador, es el componente más importante de una computadora. Su función es interpretar las instrucciones de un programa informático a través de operaciones matemáticas y lógicas. Es el núcleo de una computadora, es el componente que realza los cálculos.  
+La unidad central de procesamiento (CPU por sus siglas en inglés), o simplemente el procesador, es el componente más importante de una computadora. Su función es interpretar las instrucciones de un programa informático a través de operaciones matemáticas y lógicas. Es el núcleo de una computadora, es el componente que realiza los cálculos.  
 
 <p style="text-align: center;">
 <i class="fas fa-microchip" style='font-size:80px;color: #1e6bb8;'></i>
 </p>  
+
+![Procesador](/assets/images/microprocessor.jpg "Microprocesador")
+<small>Edited photo from <a href="https://unsplash.com/@ocollet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olivier Collet</a> on <a href="https://unsplash.com/s/photos/microprocessor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
+  
 
 La CPU está compuesta por millones de transistores. Cada transistor puede hacer operaciones binarias, es decir, de 0 o 1, de verdadero o falso. En breve, la misión del CPU es preguntar qué instrucción sigue y procesarla.  
 

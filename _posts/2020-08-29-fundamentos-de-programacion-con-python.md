@@ -8,7 +8,7 @@ category: Python
 comments: true
 ---
 
-Quiero dedicar una serie de entradas a los fundamentos de programación utilizando el lenguaje de programación Python.  
+Este un curso de fundamentos de programación utilizando el lenguaje de programación Python.  
 
 - [¿Por qué?](#por-qué)
 - [¿A quién pueden servir este curso?](#a-quién-pueden-servir-este-curso)
@@ -32,7 +32,7 @@ Aquí podrás aprender sobre programación, Python, internet, la web, bases de d
 
 Cuando se aprende algo nuevo, se debe partir de lo más fácil a lo más difícil. Por eso es una excelente idea iniciar con Python, porque oculta parte de la complejidad de otros lenguajes de programación. Esto nos permite iniciarnos en la programación de forma más fácil.  
 
-Por otro lado, es un lenguaje multipropósito; esto significa que con él podemos programar diferentes tipos de aplicaciones: de escritorio, web, videojuegos, científicas, ciencia de datos, inteligencia articifial, ciberseguridad, etc. Si vas iniciando tu viaje en el mundo de la programación y no sabes a qué área te gustaría dedicarte, Python es una gran opción por su versatilidad.  
+Por otro lado, es un lenguaje multipropósito; esto significa que con él podemos programar diferentes tipos de aplicaciones: de escritorio, web, científicas, ciencia de datos, inteligencia articifial, ciberseguridad, videojuegos, etc. Si vas iniciando tu viaje en el mundo de la programación y no sabes a qué área te gustaría dedicarte, Python es una buena opción por su versatilidad.  
 
 Happy hacking!
 
@@ -45,4 +45,4 @@ Happy hacking!
 - [Documentación oficial de Python](https://www.python.org/doc/).  
 - Severance, C. [Python for every body](https://www.coursera.org/specializations/python). El curso y todos sus materiales tienen una licencia Creative Commons Attribution 3.0.
 - Material del curso en español: [Python para todos](https://es.py4e.com/).
-- Severance, C. [Python para todos](http://do1.dr-chuck.com/pythonlearn/ES_es/pythonlearn.pdf "Python para todos, libro en español"). Libro en español.
+- Severance, C. [Python para todos](http://do1.dr-chuck.com/pythonlearn/ES_es/pythonlearn.pdf "Python para todos, libro en español"). Libro del curso en español.
